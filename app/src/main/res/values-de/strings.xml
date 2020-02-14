@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projeto1_2019_hello_world</string>
+    <string name="welcome">Wilkommen to android app development</string>
+    <string name="deitel_logo">Deitel's käfter double thumbs up</string>
+</resources>

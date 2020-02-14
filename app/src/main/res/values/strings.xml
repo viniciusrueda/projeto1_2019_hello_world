@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projeto1_2019_hello_world</string>
+    <string name="welcome">Welcome to android app development</string>
+    <string name="deitel_logo">Deitel's bug's double thumbs up</string>
+</resources>
